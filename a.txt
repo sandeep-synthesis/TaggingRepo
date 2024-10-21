@@ -1,0 +1,2 @@
+file b.
+change 1.
